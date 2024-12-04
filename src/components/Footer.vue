@@ -66,7 +66,7 @@
       </div>
       <div class="footer-bottom">
         <p>2020 Landify UI kit. All rights reserved.</p>
-        <p>For any help, please contact us: +90-12345678 | <a href="mailto:www@WeFresh.com">www@WeFresh.com</a></p>
+        <p>For any help, please contact us: +855-81640732 | <a href="mailto:www@WeFresh.com">www@WeFresh.com</a></p>
         <p><a href="#">Get the App</a></p>
       </div>
     </footer>
