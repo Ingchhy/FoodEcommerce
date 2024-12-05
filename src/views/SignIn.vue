@@ -1,5 +1,3 @@
-//nimol page
-
 <template>
     <div class="sign-in-container">
       <!-- Left Side - Sign In Form -->
@@ -60,6 +58,10 @@
     },
     methods: {
       handleSignIn() {
+<<<<<<< HEAD
+=======
+        // Add logic for handling the sign-in
+>>>>>>> 0d1320265ed9d86aa658e56a57e2e345ed19c9b5
         console.log("Email:", this.email);
         console.log("Password:", this.password);
 
@@ -69,6 +71,10 @@
   </script>
   
   <style scoped>
+<<<<<<< HEAD
+=======
+  /* Sign In Container */
+>>>>>>> 0d1320265ed9d86aa658e56a57e2e345ed19c9b5
   .sign-in-container {
     display: flex;
     width: 1583px;
@@ -78,6 +84,10 @@
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
   }
   
+<<<<<<< HEAD
+=======
+  /* Left Side - Sign In Form */
+>>>>>>> 0d1320265ed9d86aa658e56a57e2e345ed19c9b5
   .sign-in-left {
   flex: 1;
   padding: 3rem;
@@ -95,6 +105,10 @@
   font-size: 2.5rem;
 }
 
+<<<<<<< HEAD
+=======
+/* Input Group Styles */
+>>>>>>> 0d1320265ed9d86aa658e56a57e2e345ed19c9b5
 .input-group {
   display: flex;
   align-items: center;
@@ -118,6 +132,10 @@
   margin-right: 10px;
 }
 
+<<<<<<< HEAD
+=======
+/* Forgot Password Link */
+>>>>>>> 0d1320265ed9d86aa658e56a57e2e345ed19c9b5
 .forgot-password {
   text-align: right;
   width: 100%;
@@ -133,6 +151,10 @@
   text-decoration: underline;
 }
 
+<<<<<<< HEAD
+=======
+/* Sign In Button */
+>>>>>>> 0d1320265ed9d86aa658e56a57e2e345ed19c9b5
 .signin-btn {
   width: 100%;
   padding: 1rem;
@@ -149,6 +171,10 @@
   background-color: #1e8449;
 }
 
+<<<<<<< HEAD
+=======
+/* Social Media Icons */
+>>>>>>> 0d1320265ed9d86aa658e56a57e2e345ed19c9b5
 .social-icons {
   display: flex;
   justify-content: center;
@@ -173,6 +199,11 @@
   
 }
 
+<<<<<<< HEAD
+=======
+
+/* Sign Up Link */
+>>>>>>> 0d1320265ed9d86aa658e56a57e2e345ed19c9b5
 .signup-text {
   margin-top: 1rem;
   font-size: 0.9rem;
@@ -187,7 +218,12 @@
 .signup-text a:hover {
   text-decoration: underline;
 }
+<<<<<<< HEAD
 
+=======
+  
+  /* Right Side - Welcome Section */
+>>>>>>> 0d1320265ed9d86aa658e56a57e2e345ed19c9b5
 .sign-in-right {
   flex: 1;
   padding: 2rem;
@@ -225,4 +261,8 @@
   font-size: 1.2rem;
 }
   </style>
+<<<<<<< HEAD
   
+=======
+  
+>>>>>>> 0d1320265ed9d86aa658e56a57e2e345ed19c9b5

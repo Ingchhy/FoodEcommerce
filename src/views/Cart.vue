@@ -1,5 +1,3 @@
-//nimol page
-
 <template>
   <div class="cart-container">
     <!-- Left Side: Cart Items -->
@@ -82,10 +80,19 @@ export default {
     decreaseQuantity(index) {
       if (this.cartItems[index].quantity > 1) this.cartItems[index].quantity--;
     },
+<<<<<<< HEAD
+=======
+    // continueShopping() {
+    //   alert("Navigating back to shopping!");
+>>>>>>> 0d1320265ed9d86aa658e56a57e2e345ed19c9b5
     },
     checkout() {
       alert("Proceeding to checkout!");
     },
+<<<<<<< HEAD
+=======
+  // },
+>>>>>>> 0d1320265ed9d86aa658e56a57e2e345ed19c9b5
 };
 </script>
 
